@@ -1,0 +1,27 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "This repository is used to test `Playwright`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evian-Chen/playwright-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evian-Chen/playwright-demo/issues"
+  },
+  "homepage": "https://github.com/Evian-Chen/playwright-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}

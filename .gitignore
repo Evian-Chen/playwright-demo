@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Playwright testoutput
+test-results/
+playwright-report/
+
+# Environment files
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Coverage reports
+coverage/
